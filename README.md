@@ -5,3 +5,5 @@ The Rice Mill CRM Application is a comprehensive solution designed to streamline
 Features and Functionality:
 
 Reporting and Dashboards: The application can generate detailed reports and analytics regarding daily how much rice sold and total income per daily, revenue generated, popular amenities, and most buyed customers. Easy to understand the data to the owner, improving resource allocation, and planning future development.
+
+![Rice Mill Dashboard](https://github.com/lasyapriya2/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/142497246/6cbcf5ee-58f1-4f63-9c5c-9669333024f9)
